@@ -208,11 +208,10 @@ button {
 .icon { 
   margin: 2rem 1rem 1rem 1rem;
   padding: 4px;
-
 }
 
 .creador {
-  font-size: 1.2rem;
+  font-size: 1.2re;
   font-weight: bold;
   /* justify-content: flex-end; */
   margin: 30px 0px 18px 5px; 
